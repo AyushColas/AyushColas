@@ -1,6 +1,6 @@
 <!-- Title with typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=9F79EE&center=true&vCenter=true&width=435&lines=Hi+I'm+Ayush+Mishra;Full-Stack+%7C+Big+Data+%7C+DevOps+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=9F79EE&center=true&vCenter=true&width=435&lines=Hi+I'm+Ayush+Mishra;Full-Stack+Developer;Big+Data+Engineer;DevOps+Explorer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🛸 Passionate developer exploring full-stack, big data, and beyond 🪐</h3>
