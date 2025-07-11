@@ -64,7 +64,7 @@
 ### 🧭 Visit My Portfolio
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://ayushcolas.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Launch%20Portfolio-Click%20Here-81ECEC?style=for-the-badge&logo=rocket&logoColor=white"/>
   </a>
 </p>
