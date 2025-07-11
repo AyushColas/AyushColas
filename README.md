@@ -1,6 +1,6 @@
 <!-- 🚀 Typing Animation Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=9F79EE&center=true&vCenter=true&width=435&lines=Hi+I'm+Ayush+Mishra;Full-Stack+Developer;Big+Data+Engineer;DevOps+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=A29BFE&center=true&vCenter=true&width=435&lines=Hi+I'm+Ayush+Mishra;Full-Stack+Developer;Big+Data+Engineer;DevOps+Explorer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🌌 Code Voyager | Exploring the infinite techscape 🚀</h3>
@@ -11,13 +11,13 @@
 
 <div align="center">
   <a href="mailto:ayushmishra2004op@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ayushmishra2004op@gmail.com-9F79EE?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-ayushmishra2004op@gmail.com-A29BFE?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/ayushmi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayush_Mishra-00C9A7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush_Mishra-81ECEC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/ayush_wants_a_burger" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-ayush_wants_a_burger-9F79EE?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-ayush_wants_a_burger-A29BFE?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </div>
 
@@ -29,31 +29,31 @@
 
 <table>
 <tr>
-<td align="center" width="120"><strong>🐍<br><span style="color:#9F79EE">Python</span></strong></td>
-<td align="center" width="120"><strong>💻<br><span style="color:#9F79EE">JavaScript</span></strong></td>
-<td align="center" width="120"><strong>🧠<br><span style="color:#9F79EE">SQL</span></strong></td>
-<td align="center" width="120"><strong>🚀<br><span style="color:#9F79EE">C++</span></strong></td>
+<td align="center" width="120"><strong>🐍<br><span style="color:#A29BFE">Python</span></strong></td>
+<td align="center" width="120"><strong>💻<br><span style="color:#A29BFE">JavaScript</span></strong></td>
+<td align="center" width="120"><strong>🧠<br><span style="color:#A29BFE">SQL</span></strong></td>
+<td align="center" width="120"><strong>🚀<br><span style="color:#A29BFE">C++</span></strong></td>
 </tr>
 
 <tr>
-<td align="center"><strong>⚛️<br><span style="color:#00C9A7">React.js</span></strong></td>
-<td align="center"><strong>🎨<br><span style="color:#00C9A7">Tailwind CSS</span></strong></td>
-<td align="center"><strong>🎨<br><span style="color:#00C9A7">Bootstrap</span></strong></td>
-<td align="center"><strong>🌐<br><span style="color:#00C9A7">Django</span></strong></td>
+<td align="center"><strong>⚛️<br><span style="color:#81ECEC">React.js</span></strong></td>
+<td align="center"><strong>🎨<br><span style="color:#81ECEC">Tailwind CSS</span></strong></td>
+<td align="center"><strong>🎨<br><span style="color:#81ECEC">Bootstrap</span></strong></td>
+<td align="center"><strong>🌐<br><span style="color:#81ECEC">Django</span></strong></td>
 </tr>
 
 <tr>
-<td align="center"><strong>🔐<br><span style="color:#9F79EE">Django REST</span></strong></td>
-<td align="center"><strong>📊<br><span style="color:#9F79EE">PostgreSQL</span></strong></td>
-<td align="center"><strong>🍃<br><span style="color:#9F79EE">MongoDB</span></strong></td>
-<td align="center"><strong>🐘<br><span style="color:#9F79EE">Apache Kafka</span></strong></td>
+<td align="center"><strong>🔐<br><span style="color:#A29BFE">Django REST</span></strong></td>
+<td align="center"><strong>📊<br><span style="color:#A29BFE">PostgreSQL</span></strong></td>
+<td align="center"><strong>🍃<br><span style="color:#A29BFE">MongoDB</span></strong></td>
+<td align="center"><strong>🐘<br><span style="color:#A29BFE">Apache Kafka</span></strong></td>
 </tr>
 
 <tr>
-<td align="center"><strong>⚡<br><span style="color:#00C9A7">PySpark</span></strong></td>
-<td align="center"><strong>🌬️<br><span style="color:#00C9A7">Apache Airflow</span></strong></td>
-<td align="center"><strong>🐳<br><span style="color:#00C9A7">Docker</span></strong></td>
-<td align="center"><strong>🛠️<br><span style="color:#00C9A7">Git, Postman, VS Code</span></strong></td>
+<td align="center"><strong>⚡<br><span style="color:#81ECEC">PySpark</span></strong></td>
+<td align="center"><strong>🌬️<br><span style="color:#81ECEC">Apache Airflow</span></strong></td>
+<td align="center"><strong>🐳<br><span style="color:#81ECEC">Docker</span></strong></td>
+<td align="center"><strong>🛠️<br><span style="color:#81ECEC">Git, Postman, VS Code</span></strong></td>
 </tr>
 </table>
 
@@ -65,8 +65,20 @@
 
 <p align="center">
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Launch%20Portfolio-Click%20Here-00C9A7?style=for-the-badge&logo=rocket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Launch%20Portfolio-Click%20Here-81ECEC?style=for-the-badge&logo=rocket&logoColor=white"/>
   </a>
+</p>
+
+---
+
+### 🛰️ Mission Log: Spaceship Circling My GitHub Galaxy
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AyushColas/AyushColas/output/github-contribution-grid-snake.svg" alt="spaceship orbiting planets (contributions)" />
+</p>
+
+<p align="center">
+  <em>Just my ship doing laps around commit-planets 🚀🪐</em>
 </p>
 
 ---
@@ -82,6 +94,6 @@
 ### ✨ Cosmic Quote
 
 <p align="center">
-  <em style="color:#9F79EE">“The important achievement of man is not what he does for himself, but what he does for others.” – Ayrton Senna</em><br/>
-  🌌 <span style="color:#00C9A7">Thanks for floating by!</span>
+  <em style="color:#A29BFE">“The important achievement of man is not what he does for himself, but what he does for others.” – Ayrton Senna</em><br/>
+  🌌 <span style="color:#81ECEC">Thanks for floating by!</span>
 </p>
