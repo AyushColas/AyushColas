@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:       # lets you run manually from GitHub Actions tab
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -15,7 +15,8 @@ jobs:
           github_user_name: AyushColas
           outputs: |
             ./output/github-contribution-grid-snake.svg
-          config_file: .github/snk-config.json
+          config_file: |
+            .github/snk-config.json
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
