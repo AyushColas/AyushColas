@@ -1,12 +1,7 @@
-<!-- Typing animation title with nebula color -->
+<!-- 🚀 Typing Animation Title -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=9F79EE&center=true&vCenter=true&width=435&lines=Hi+I'm+Ayush+Mishra;Full-Stack+Developer;Big+Data+Engineer;DevOps+Explorer" alt="Typing SVG" />
 </h1>
-
-<!-- Optional visual background simulation (starry GIF) -->
-<p align="center">
-  <img src="https://i.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.webp" width="100%" alt="starry background" />
-</p>
 
 <h3 align="center">🌌 Code Voyager | Exploring the infinite techscape 🚀</h3>
 
@@ -63,6 +58,16 @@
 </table>
 
 </div>
+
+---
+
+### 🧭 Visit My Portfolio
+
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Launch%20Portfolio-Click%20Here-00C9A7?style=for-the-badge&logo=rocket&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
