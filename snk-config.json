@@ -1,0 +1,9 @@
+{
+  "theme": "github-dark",
+  "snake_color": "#81ECEC",
+  "color_snake": "#81ECEC",
+  "background": "#0D1117",
+  "snake_head": "dot",
+  "hide_avatar": false,
+  "dot_color": "#A29BFE"
+}
