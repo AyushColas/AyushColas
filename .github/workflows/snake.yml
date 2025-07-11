@@ -15,6 +15,7 @@ jobs:
           github_user_name: AyushColas
           outputs: |
             ./output/github-contribution-grid-snake.svg
+          config_file: .github/snk-config.json
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
