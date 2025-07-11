@@ -19,39 +19,40 @@
 
 ### 🧑‍🚀 Technologies I’ve Loaded Into My Ship
 
-#### 🧠 Languages  
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<div align="center">
 
-#### 🛸 Frontend  
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="120"><strong>🐍<br>Python</strong></td>
+<td align="center" width="120"><strong>💻<br>JavaScript</strong></td>
+<td align="center" width="120"><strong>🧠<br>SQL</strong></td>
+<td align="center" width="120"><strong>🚀<br>C++</strong></td>
+</tr>
 
-#### 🚀 Backend  
-<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Django%20REST-092E20?style=flat-square&logo=django&logoColor=white"/>
+<tr>
+<td align="center"><strong>⚛️<br>React.js</strong></td>
+<td align="center"><strong>🎨<br>Tailwind CSS</strong></td>
+<td align="center"><strong>🎨<br>Bootstrap</strong></td>
+<td align="center"><strong>🌐<br>Django</strong></td>
+</tr>
 
-#### 🌠 Big Data  
-<img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white"/>
+<tr>
+<td align="center"><strong>🔐<br>Django REST</strong></td>
+<td align="center"><strong>📊<br>PostgreSQL</strong></td>
+<td align="center"><strong>🍃<br>MongoDB</strong></td>
+<td align="center"><strong>🐘<br>Apache Kafka</strong></td>
+</tr>
 
-#### 🧪 DevOps  
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+<tr>
+<td align="center"><strong>⚡<br>PySpark</strong></td>
+<td align="center"><strong>🌬️<br>Apache Airflow</strong></td>
+<td align="center"><strong>🐳<br>Docker</strong></td>
+<td align="center"><strong>🔧<br>Git, Postman</strong></td>
+</tr>
+</table>
 
-#### 📡 Databases  
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</div>
 
-#### 🛠️ Tools  
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 ---
 
