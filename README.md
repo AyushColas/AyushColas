@@ -71,7 +71,7 @@
 
 ---
 
-### 🛰️ Mission Log: Spaceship Circling My GitHub Galaxy
+### 🛰️ Mission Log:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AyushColas/AyushColas/output/github-contribution-grid-snake.svg" alt="spaceship orbiting planets (contributions)" />
