@@ -11,13 +11,13 @@
 
 <div align="center">
   <a href="mailto:ayushmishra2004op@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ayushmishra2004op@gmail.com-A29BFE?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-ayushmishra2004op@gmail.com-81ECEC?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/ayushmi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ayush_Mishra-81ECEC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/ayush_wants_a_burger" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-ayush_wants_a_burger-A29BFE?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-ayush_wants_a_burger-81ECEC?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </div>
 
